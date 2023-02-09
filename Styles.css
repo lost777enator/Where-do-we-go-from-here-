@@ -1,0 +1,38 @@
+Styles.css
+body { 
+    background-color: #F0EEED;
+  }
+  h1 {
+    text-align: left;
+    color: #609EA2;
+    font-size: 2em;
+  }
+  
+  p {
+    text-align: justify;
+    color: #332C39;
+    font-family: "Times New Roman", times, serif; 
+    font-size: 1em;
+  }
+  ol {
+    text-align: justify;
+    color: #332C39;
+    font-family: "Times New Roman", times, serif; 
+    font-size: 1em;
+  }
+  
+  li {
+    text-align: justify;
+    color: #332C39;
+    font-family: "Times New Roman", times, serif; 
+    font-size: 1em;
+  }
+  hr {
+          text-align: center;
+          height: 1px;
+          background-color: #C92C6D;
+    }
+  a {
+          color: #C92C6D;
+          font-style: bold;
+  }
